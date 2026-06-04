@@ -1,6 +1,7 @@
-[
+﻿[
     {
-        "name": "Effective coaching",
+        "name": "Effective Coaching",
+        "type": "legacy",
         "description": "This path helps you build your skills as a positive communicator and leader. The projects on this path focus on understanding and building consensus, contributing to the development of others by coaching and establishing strong public speaking skills. Each project emphasizes the importance of effective interpersonal communication. This path culminates in a “High Performance Leadership” project of your design.",
         "levels": [
             {
@@ -202,6 +203,7 @@
     },
     {
         "name": "Dynamic Leadership",
+        "type": "current",
         "description": "This path helps you build your skills as a strategic leader. The projects on this path focus on understanding leadership and communication styles, the effect of conflict on a group and the skills needed to defuse and direct conflict. These projects also emphasize the development of strategies to facilitate change in an organization or group, interpersonal communication and public speaking. This path culminates in a project focused on applying your leadership skills.",
         "levels": [
             {
@@ -515,7 +517,8 @@
         ]
     },
     {
-        "name": "Innovative planning",
+        "name": "Innovative Planning",
+        "type": "legacy",
         "description": "This path helps you build your skills as a public speaker and leader. The projects on this path focus on developing a strong connection with audience members when you present, speech writing and speech delivery. The projects contribute to building an understanding of the steps to manage a project, as well as creating innovative solutions. This path culminates in a “High Performance Leadership” project of your design.",
         "levels": [
             {
@@ -708,7 +711,8 @@
         ]
     },
     {
-        "name": "Leadership development",
+        "name": "Leadership Development",
+        "type": "legacy",
         "description": "This path helps you build your skills as an effective communicator and leader. The projects on this path focus on learning how to manage time, as well as how to develop and implement a plan. Public speaking and leading a team are emphasized in all projects. This path culminates in the planning and execution of an event that will allow you to apply everything you learned.",
         "levels": [
             {
@@ -913,7 +917,8 @@
         ]
     },
     {
-        "name": "Motivational strategies",
+        "name": "Motivational Strategies",
+        "type": "current",
         "description": "This path helps you build your skills as a powerful and effective communicator. The projects focus on learning strategies for building connections with the people around you, understanding motivation and successfully leading small groups to accomplish tasks. This path culminates in a comprehensive team-building project that brings all of your skills together—including public speaking.",
         "levels": [
             {
@@ -1227,7 +1232,8 @@
         ]
     },
     {
-        "name": "Persuasive influence",
+        "name": "Persuasive Influence",
+        "type": "current",
         "description": "This path helps you build your skills as an innovative communicator and leader. The projects on this path focus on how to negotiate a positive outcome together with building strong interpersonal communication and public speaking skills. Each project emphasizes developing leadership skills to use in complex situations, as well as creating innovative solutions to challenges. This path culminates in a “High Performance Leadership” project of your design. ",
         "levels": [
             {
@@ -1537,7 +1543,8 @@
         ]
     },
     {
-        "name": "Presentation mastery",
+        "name": "Presentation Mastery",
+        "type": "current",
         "description": "This path helps you build your skills as an accomplished public speaker. The projects on this path focus on learning how an audience responds to you and improving your connection with audience members. The projects contribute to developing an understanding of effective public speaking technique, including speech writing and speech delivery. This path culminates in an extended speech that will allow you to apply what you learned.",
         "levels": [
             {
@@ -1843,7 +1850,8 @@
         ]
     },
     {
-        "name": "Strategic relationships",
+        "name": "Strategic Relationships",
+        "type": "legacy",
         "description": "This path helps you build your skills as a leader in communication. The projects on this path focus on understanding diversity, building personal and/or professional connections with a variety of people and developing a public relations strategy. Communicating well interpersonally and as a public speaker is emphasized in each project. The path culminates in a project to apply your skills as a leader in a volunteer organization.",
         "levels": [
             {
@@ -2036,7 +2044,8 @@
         ]
     },
     {
-        "name": "Team collaboration",
+        "name": "Team Collaboration",
+        "type": "legacy",
         "description": "This path helps you build your skills as a powerful and effective communicator. The projects focus on learning strategies for building connections with the people around you, understanding motivation and successfully leading small groups to accomplish tasks. This path culminates in a comprehensive team-building project that brings all of your skills together—including public speaking.",
         "levels": [
             {
@@ -2237,7 +2246,8 @@
         ]
     },
     {
-        "name": "Visionary communication",
+        "name": "Visionary Communication",
+        "type": "current",
         "description": "This path helps you build your skills as a strategic communicator and leader. The projects on this path focus on developing your skills for sharing information with a group, planning communications and creating innovative solutions. Speech writing and speech delivery are emphasized in each project. This path culminates in the development and launch of a long-term personal or professional vision.",
         "levels": [
             {
@@ -2555,7 +2565,8 @@
         ]
     },
     {
-        "name": "Engaging humor",
+        "name": "Engaging Humor",
+        "type": "current",
         "description": "This path is designed to help you build your skills as a humorous and engaging public speaker. The projects on this path focus on understanding your sense of humor and how that sense of humor translates to engaging audience members. The projects contribute to developing an understanding of how to effectively use humor in a speech, including challenging situations and impromptu speeches. This path culminates in an extended humorous speech that will allow you to apply what you learned.",
         "levels": [
             {
