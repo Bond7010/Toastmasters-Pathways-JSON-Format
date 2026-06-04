@@ -221,7 +221,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -240,7 +249,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -307,7 +326,27 @@
                         "name": "Know your sense of humor",
                         "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -354,7 +393,44 @@
                         "name": "Manage projects successfully",
                         "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -397,7 +473,44 @@
                         "name": "High performance leadership",
                         "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -820,7 +933,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -839,7 +961,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -906,7 +1038,27 @@
                         "name": "Know your sense of humor",
                         "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -953,7 +1105,44 @@
                         "name": "Manage projects successfully",
                         "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -996,7 +1185,44 @@
                         "name": "High performance leadership",
                         "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1021,7 +1247,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -1040,7 +1275,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -1107,7 +1352,27 @@
                         "name": "Know your sense of humor",
                         "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -1154,7 +1419,44 @@
                         "name": "Manage projects successfully",
                         "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -1193,7 +1495,44 @@
                         "name": "Prepare to speak professionally",
                         "description": "This project is designed to help you define the attributes of professional speakers and apply that understanding to your own skills as a speaker."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1218,7 +1557,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -1237,7 +1585,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -1304,7 +1662,27 @@
                         "name": "Know your sense of humor",
                         "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -1347,7 +1725,44 @@
                         "name": "Manage projects successfully",
                         "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -1386,7 +1801,44 @@
                         "name": "High performance leadership",
                         "description": "The focus of this project is to design and complete a project with well-defined goals, lead a team and be accountable to a guidance committee."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -1805,7 +2257,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -1824,7 +2285,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -1895,7 +2366,27 @@
                         "name": "Know your sense of humor  0",
                         "description": "This project focuses on understanding what makes you laugh and how to share that with an audience."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -1942,7 +2433,44 @@
                         "name": "Manage projects successfully  0",
                         "description": "This project focuses on skills needed to effectively manage a project, develop rapport with stakeholders and cultivate strong relationships with a team."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -1985,7 +2513,44 @@
                         "name": "Prepare to speak professionally  0",
                         "description": "This project is designed to help you define the attributes of professional speakers and apply that understanding to your own skills as a speaker."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
             }
         ]
     },
@@ -2010,7 +2575,16 @@
                         "description": "This project addresses topic selection strategies, suggestions for research and methods for producing a wellorganized speech."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Table Topics Speaker",
+                        "Evaluator",
+                        "Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 2,
@@ -2029,7 +2603,17 @@
                         "description": "This project introduces the value of mentorship and the Toastmasters view of mentors and protégés."
                     }
                 ],
-                "totalProjectsRequired": 3
+                "totalProjectsRequired": 3,
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Grammarian",
+                        "Topicsmaster",
+                        "Evaluator",
+                        "Toastmaster OR Timer OR Ah-Counter"
+                    ],
+                    "ed_series": []
+                }
             },
             {
                 "level": 3,
@@ -2096,7 +2680,27 @@
                         "name": "Using presentation software",
                         "description": "This project addresses the use of presentation software—from identifying topics that benefit from the use of technology to effective slide design and presentation."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "Evaluator",
+                        "Topicsmaster OR Table Topics Speaker OR Introductory Mentor"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Creating the Best Club Climate",
+                                "Meeting Roles and Responsibilities",
+                                "Keeping the Commitment",
+                                "Going Beyond Our Club"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 4,
@@ -2143,7 +2747,44 @@
                         "name": "Write a compelling blog",
                         "description": "This project addresses the basics of developing a compelling blog and successfully engaging a readership."
                     }
-                ]
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "Toastmaster",
+                        "General Evaluator",
+                        "Evaluator",
+                        "Table Topics Speaker OR Topicsmaster OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Finding New Members",
+                                "Closing the Sale",
+                                "How to Be a Distinguished Club",
+                                "Toastmasters Educational Program"
+                            ]
+                        },
+                        {
+                            "series": "Better Speaker Series",
+                            "choose": 1,
+                            "options": [
+                                "Beginning Your Speech",
+                                "Concluding Your Speech",
+                                "Controlling Your Fear",
+                                "Impromptu Speaking",
+                                "Selecting Your Topic",
+                                "Know Your Audience",
+                                "Organizing Your Speech",
+                                "Creating an Introduction",
+                                "Preparation and Practice",
+                                "Using Body Language"
+                            ]
+                        }
+                    ]
+                }
             },
             {
                 "level": 5,
@@ -2186,6 +2827,151 @@
                         "name": "Prepare to speak professionally",
                         "description": "This project is designed to help you define the attributes of professional speakers and apply that understanding to your own skills as a speaker."
                     }
+                ],
+                "enhancements": {
+                    "required_after": "2025-10",
+                    "meeting_roles": [
+                        "General Evaluator (x2)",
+                        "Toastmaster (x2)",
+                        "Evaluator (x2)",
+                        "Table Topics Speaker OR Topicsmaster OR Ah-Counter OR Timer OR Grammarian OR Club Mentor OR Specialized Role OR repeat"
+                    ],
+                    "ed_series": [
+                        {
+                            "series": "Successful Club Series",
+                            "choose": 1,
+                            "options": [
+                                "Moments of Truth",
+                                "Evaluate to Motivate",
+                                "Mentoring"
+                            ]
+                        },
+                        {
+                            "series": "Leadership Excellence Series",
+                            "choose": 1,
+                            "options": [
+                                "Service and Leadership",
+                                "The Leader as a Coach",
+                                "Developing a Mission",
+                                "Motivating People",
+                                "Building a Team",
+                                "Delegate to Empower",
+                                "Resolving Conflict",
+                                "Visionary Leader",
+                                "Values and Leadership",
+                                "Goal Setting and Planning",
+                                "Giving Effective Feedback"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Basic Training for Toastmasters",
+        "type": "vintage",
+        "completion": "What Did You Get Out of It?",
+        "levels": [
+            {
+                "level": 1,
+                "name": "Introduction to Basic Training",
+                "required": [
+                    "Speech 1: The Ice Breaker",
+                    "Speech 2: Be in Earnest",
+                    "When You Are Table Topic Chairperson"
+                ]
+            },
+            {
+                "level": 2,
+                "required": [
+                    "When You Are Toastmaster of the Evening",
+                    "Speech 3: Building a Speech",
+                    "Speech 4: Hands Up"
+                ]
+            },
+            {
+                "level": 3,
+                "required": [
+                    "Speech 5: Vocal Variety",
+                    "Speech 6: Speech Building",
+                    "When You Are a Critic or Evaluator",
+                    "Take Your Measure Again"
+                ]
+            },
+            {
+                "level": 4,
+                "required": [
+                    "Speech 7: Reading the Speech",
+                    "Speech 8: Illuminate the Speech",
+                    "Speech 9: Working With Words"
+                ]
+            },
+            {
+                "level": 5,
+                "required": [
+                    "Speech 10: Special Types of Speech",
+                    "Speech 11: Organizing the Speech",
+                    "Speech 12: Carrying On"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Communication Series: Entertaining Speaker + Storytelling",
+        "type": "vintage",
+        "completion": "Reflect on Your Path",
+        "levels": [
+            {
+                "level": 1,
+                "name": "Introduction to Competent Communication",
+                "required": [
+                    "Project 1: The Ice Breaker",
+                    "Project 2: Organize Your Speech",
+                    "Project 3: Get to the Point"
+                ]
+            },
+            {
+                "level": 2,
+                "required": [
+                    "Project 4: How to Say It",
+                    "Project 5: Your Body Speaks",
+                    "Evaluate Your Progress Part 1",
+                    "Project 6: Vocal Variety"
+                ]
+            },
+            {
+                "level": 3,
+                "required": [
+                    "Project 7: Research Your Topic",
+                    "Project 8: Get Comfortable with Visual Aids",
+                    "Project 9: Persuade with Power",
+                    "Project 10: Inspire Your Audience",
+                    "Evaluate Your Progress Part 2"
+                ]
+            },
+            {
+                "level": 4,
+                "name": "The Entertaining Speaker",
+                "required": [
+                    "Introduction to The Entertaining Speaker",
+                    "Project 1: The Entertaining Speech",
+                    "Project 2: Resources for Entertainment",
+                    "Project 3: Make Them Laugh",
+                    "Project 4: A Dramatic Talk",
+                    "Project 5: Speaking After Dinner"
+                ]
+            },
+            {
+                "level": 5,
+                "name": "Storytelling",
+                "required": [
+                    "Introduction to Storytelling",
+                    "Project 1: The Folk Tale",
+                    "Project 2: Let's Get Personal",
+                    "Project 3: The Moral of the Story",
+                    "Project 4: The Touching Story",
+                    "Project 5: Bringing History to Life"
                 ]
             }
         ]
